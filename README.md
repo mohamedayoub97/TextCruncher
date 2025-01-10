@@ -1,6 +1,3 @@
-Here's a detailed **README.md** for your AI Summarizer Application:
-
-```markdown
 # AI Summarizer Application ✍️
 
 ![TextCruncher Icon](https://github.com/mohamedayoub97/TextCruncher.git)
